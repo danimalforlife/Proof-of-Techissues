@@ -1,0 +1,26 @@
+title: Proof of Techissues
+originalAuthor: danimalforlife
+description: Sorry, looks like winning gives you tech issues.
+
+assets:
+
+#Proof of Connection
+  - name: remastered\itempic\item-321.imd\-0.dds
+    platform: pc
+    method: copy
+    source:
+      - name: remastered\-0.gif
+
+#Proof of Nonexistence
+  - name: remastered\itempic\item-322.imd\-0.dds
+    platform: pc
+    method: copy
+    source:
+      - name: remastered\-1.gif
+
+#Proof of Peace
+  - name: remastered\itempic\item-323.imd\-0.dds
+    platform: pc
+    method: copy
+    source:
+      - name: remastered\-2.gif
